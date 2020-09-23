@@ -1,10 +1,8 @@
 {
-    "name": "codicastudio/youtube",
-    "description": "A noobs worthless garbage, just learning.",
-    "keywords": [
-        "worthless garabage by a noob."
-    ],
-    "homepage": "https://github.com/codicastudio/youtube",
+    "name": "codica-studio/youtube",
+    "description": "A random Codica Studio package.",
+
+    "homepage": "https://github.com/codica-studio/youtube",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +14,7 @@
     ],
 
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "illuminate/support": "^8.0",
         "google/apiclient": "^2.2"
     },
