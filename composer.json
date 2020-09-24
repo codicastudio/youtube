@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/youtube",
+    "name": "codicastudio/youtube",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/youtube",
@@ -33,6 +33,7 @@
         }
     },
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "extra": {
         "laravel": {
             "providers": [
